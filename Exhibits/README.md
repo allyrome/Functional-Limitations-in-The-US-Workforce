@@ -1,7 +1,7 @@
 These files run the analysis and produce the 6 exhibits 
 
 ## exhibit_1_descr_stats.do 
-Produces Table 1, inputs: hfcs_recodes.dta HFCS_CLEAN.dta outputs: summary statistics.csv
+Produces Table 1, inputs: hfcs_recodes.dta HFCS_CLEAN.dta outputs: summary_stats_stars.csv
 
 ## exhibit_2_prevalence.do 
 Produces Figure 1, inputs: hfcs_recodes.dta hfcs_recodes_collapse.dta output: prevalence_by_group.png
