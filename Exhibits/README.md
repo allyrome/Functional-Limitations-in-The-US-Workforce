@@ -16,4 +16,4 @@ Produces Table 2, Table S3, Table S4, and Table S5 inputs: medcond_g.dta interim
 Produces Table S1 inputs: hfcs_recodes.dta, variables_full_fml.xlsx interim: hfcs_recodes_collapse_s1.dta output: common_func_limitations.xlsx
 
 ## exhibit_s2_full_regression_table.do 
-Produces Table S2 inputs: boot_results.dta med_condition_coefficients.xlsx output: exhibit_s2.xlsx
+Produces Table S2 inputs: boot_results.dta med_condition_coefficients.xlsx interim: ttest_results_with_starss2.dta output: prevalence_by_occupation
